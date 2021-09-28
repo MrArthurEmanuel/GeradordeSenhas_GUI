@@ -1,0 +1,2 @@
+# geradordesenhasGUI
+TODAS AS INSTRUÇÕES ESTÃO DENTRO DO PROGRAMA!!!!
